@@ -4,8 +4,8 @@ import React from 'react';
 const Saludo = (msj) => {
     return(
         <p>
-            <h1>EVALUACION 3</h1>
-        <h2> evaluacion de hola jose diego quispe cahuana</h2>
+            <h1></h1>
+        <h2> hola jose diego quispe cahuana</h2>
         
         
         
